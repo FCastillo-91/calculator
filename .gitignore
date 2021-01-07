@@ -2,6 +2,9 @@
 
 .idea
 .eslintcache
+.prettierignore
+.prettierrc.json
+
 # dependencies
 /node_modules
 /.pnp
